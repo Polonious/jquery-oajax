@@ -6,7 +6,9 @@ Summary
 Perform an asynchronous HTTP (Ajax) request with OAuth
 
 @copyright 2012 Polonious Pty Ltd.
+
 @website https://github.com/polonious/jquery-oajax/
+
 @version 1.0
 
 Licensed under the MIT License
