@@ -141,7 +141,7 @@
 	omethod = function(xhrMethod, hasData){
 		return hasData ?
 			function(url, data, dataType){
-				options = parseOptions(url);
+				var options = parseOptions(url);
 				options[method.xhrMethod] = xhrMethod;
 				if(data){
 					options.data = data;
